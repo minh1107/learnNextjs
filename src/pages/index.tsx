@@ -17,8 +17,8 @@ export default function Home() {
       <main className={`${styles.main} ${inter.className}`}>
         <div className={styles.description}>
           <p>
-            Get started by editing&nbsp;
-            <code className={styles.code}>src/pages/index.tsx</code>
+            Goto this link to my web&nbsp;
+            <code className={styles.code}>https://vercel.com/minh1107/learn-nextjs</code>
           </p>
           <div>
             <a
